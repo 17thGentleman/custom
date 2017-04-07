@@ -1,0 +1,2626 @@
+body.optional {
+  /*!
+ * DokuWiki Bootstrap3 Template: Styles
+ *
+ * Home     http://dokuwiki.org/template:bootstrap3
+ * Author   Giuseppe Di Terlizzi <giuseppe.diterlizzi@gmail.com>
+ * License  GPL 2 (http://www.gnu.org/licenses/gpl.html)
+ */
+  /*!
+ * DokuWiki Bootstrap3 Template: FontAwesome Icons
+ *
+ * Home     http://dokuwiki.org/template:bootstrap3
+ * Author   Giuseppe Di Terlizzi <giuseppe.diterlizzi@gmail.com>
+ * License  GPL 2 (http://www.gnu.org/licenses/gpl.html)
+ */
+  /*!
+ *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
+ *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+ */
+  /*!
+* DokuWiki Bootstrap3 Template: Mixins
+*
+* Home     http://dokuwiki.org/template:bootstrap3
+* Author   Giuseppe Di Terlizzi <giuseppe.diterlizzi@gmail.com>
+* License  GPL 2 (http://www.gnu.org/licenses/gpl.html)
+*/
+  /* Very useful Mixins */
+  /* Template Mixins */
+  /*!
+* DokuWiki Bootstrap3 Template: Font Icons
+*
+* Home     http://dokuwiki.org/template:bootstrap3
+* Author   Giuseppe Di Terlizzi <giuseppe.diterlizzi@gmail.com>
+* License  GPL 2 (http://www.gnu.org/licenses/gpl.html)
+*/
+  /*!
+ * DokuWiki Bootstrap3 Template: Template
+ *
+ * Home     http://dokuwiki.org/template:bootstrap3
+ * Author   Giuseppe Di Terlizzi <giuseppe.diterlizzi@gmail.com>
+ * License  GPL 2 (http://www.gnu.org/licenses/gpl.html)
+ */
+  /* Ordered list style */
+  /* Decimal: 1. 2. 3. ...              */
+  /* Alpha (lowercase): a. b. c. ...    */
+  /* Roman (uppercase): I. II. III. ... */
+  /* Alpha (uppercase): A. B. C. ...    */
+  /* Roman (lowercase): i. ii. iii. ... */
+  /* Header */
+  /* Message area (alerts, warnings, errors, etc.) */
+  /* NavBar Logo */
+  /* Badges */
+  /* Configuration Manager */
+  /* Breadcrumbs */
+  /* Footnotes */
+  /* User Menu */
+  /* Page tools */
+  /* Footer Page */
+  /* License */
+  /* Extension Manager */
+  /* User Manager */
+  /* Media Manager */
+  /* Back to top button */
+  /* Fix for media list overlap */
+  /* External URL (navbar) */
+  /* Page Info */
+  /* User profile image */
+  /* Page icons (email, print, social share, etc.) */
+  /* Override Bootstrap3 style */
+  /* Set ".img-responsive" to "inline" */
+  /* Commond DokuWiki styles */
+  /* Custom DropDown menu with multiple columns */
+  /* Custom DropDown Menu Large (see http://bootsnipp.com/snippets/featured/large-dropdown-menu) */
+  /* Dropdown menu page */
+  /* AnchorJS */
+  /* Override Bootswatch Style */
+  /*!
+ * DokuWiki Bootstrap3 Template: TOC
+ *
+ * Home     http://dokuwiki.org/template:bootstrap3
+ * Author   Giuseppe Di Terlizzi <giuseppe.diterlizzi@gmail.com>
+ * License  GPL 2 (http://www.gnu.org/licenses/gpl.html)
+ */
+  /*!
+ * DokuWiki Bootstrap3 Template: Difference
+ *
+ * Home     http://dokuwiki.org/template:bootstrap3
+ * Author   Giuseppe Di Terlizzi <giuseppe.diterlizzi@gmail.com>
+ * License  GPL 2 (http://www.gnu.org/licenses/gpl.html)
+ */
+  /*!
+ * DokuWiki Bootstrap3 Template: Recent
+ *
+ * Home     http://dokuwiki.org/template:bootstrap3
+ * Author   Giuseppe Di Terlizzi <giuseppe.diterlizzi@gmail.com>
+ * License  GPL 2 (http://www.gnu.org/licenses/gpl.html)
+ */
+  /*!
+ * DokuWiki Bootstrap3 Template: Mobile and other devices styles
+ *
+ * Home     http://dokuwiki.org/template:bootstrap3
+ * Author   Giuseppe Di Terlizzi <giuseppe.diterlizzi@gmail.com>
+ * License  GPL 2 (http://www.gnu.org/licenses/gpl.html)
+ */
+  /*!
+ * DokuWiki Bootstrap3 Template: DokuWiki Plugins
+ *
+ * Home     http://dokuwiki.org/template:bootstrap3
+ * Author   Giuseppe Di Terlizzi <giuseppe.diterlizzi@gmail.com>
+ * License  GPL 2 (http://www.gnu.org/licenses/gpl.html)
+ */
+  /*
+ * DokuWiki Bootstrap3 Template: DokuWiki Plugins
+ *
+ * Home     http://dokuwiki.org/template:bootstrap3
+ * Author   Giuseppe Di Terlizzi <giuseppe.diterlizzi@gmail.com>
+ * License  GPL 2 (http://www.gnu.org/licenses/gpl.html)
+ */
+  /* Add New Page Plugin */
+  /*
+ * DokuWiki Bootstrap3 Template: DokuWiki Plugins
+ *
+ * Home     http://dokuwiki.org/template:bootstrap3
+ * Author   Giuseppe Di Terlizzi <giuseppe.diterlizzi@gmail.com>
+ * License  GPL 2 (http://www.gnu.org/licenses/gpl.html)
+ */
+  /* Bureaucracy Plugin */
+  /* Styles for XS devices */
+  /*
+ * DokuWiki Bootstrap3 Template: DokuWiki Plugins
+ *
+ * Home     http://dokuwiki.org/template:bootstrap3
+ * Author   Giuseppe Di Terlizzi <giuseppe.diterlizzi@gmail.com>
+ * License  GPL 2 (http://www.gnu.org/licenses/gpl.html)
+ */
+  /* Data Plugin (Table) */
+  /*
+ * DokuWiki Bootstrap3 Template: DokuWiki Plugins
+ *
+ * Home     http://dokuwiki.org/template:bootstrap3
+ * Author   Giuseppe Di Terlizzi <giuseppe.diterlizzi@gmail.com>
+ * License  GPL 2 (http://www.gnu.org/licenses/gpl.html)
+ */
+  /* DataTables Plugin */
+  /*
+ * DokuWiki Bootstrap3 Template: DokuWiki Plugins
+ *
+ * Home     http://dokuwiki.org/template:bootstrap3
+ * Author   Giuseppe Di Terlizzi <giuseppe.diterlizzi@gmail.com>
+ * License  GPL 2 (http://www.gnu.org/licenses/gpl.html)
+ */
+  /* Dir Plugin */
+  /*
+ * DokuWiki Bootstrap3 Template: DokuWiki Plugins
+ *
+ * Home     http://dokuwiki.org/template:bootstrap3
+ * Author   Giuseppe Di Terlizzi <giuseppe.diterlizzi@gmail.com>
+ * License  GPL 2 (http://www.gnu.org/licenses/gpl.html)
+ */
+  /* Discussion Plugin */
+  /*
+ * DokuWiki Bootstrap3 Template: DokuWiki Plugins
+ *
+ * Home     http://dokuwiki.org/template:bootstrap3
+ * Author   Giuseppe Di Terlizzi <giuseppe.diterlizzi@gmail.com>
+ * License  GPL 2 (http://www.gnu.org/licenses/gpl.html)
+ */
+  /* InlineTOC Plugin */
+  /*
+ * DokuWiki Bootstrap3 Template: DokuWiki Plugins
+ *
+ * Home     http://dokuwiki.org/template:bootstrap3
+ * Author   Giuseppe Di Terlizzi <giuseppe.diterlizzi@gmail.com>
+ * License  GPL 2 (http://www.gnu.org/licenses/gpl.html)
+ */
+  /* Linkback Plugin */
+  /*
+ * DokuWiki Bootstrap3 Template: DokuWiki Plugins
+ *
+ * Home     http://dokuwiki.org/template:bootstrap3
+ * Author   Giuseppe Di Terlizzi <giuseppe.diterlizzi@gmail.com>
+ * License  GPL 2 (http://www.gnu.org/licenses/gpl.html)
+ */
+  /* Overlay */
+  /*
+ * DokuWiki Bootstrap3 Template: DokuWiki Plugins
+ *
+ * Home     http://dokuwiki.org/template:bootstrap3
+ * Author   Giuseppe Di Terlizzi <giuseppe.diterlizzi@gmail.com>
+ * License  GPL 2 (http://www.gnu.org/licenses/gpl.html)
+ */
+  /* Publish Plugin */
+  /*
+ * DokuWiki Bootstrap3 Template: DokuWiki Plugins
+ *
+ * Home     http://dokuwiki.org/template:bootstrap3
+ * Author   Giuseppe Di Terlizzi <giuseppe.diterlizzi@gmail.com>
+ * License  GPL 2 (http://www.gnu.org/licenses/gpl.html)
+ */
+  /* Simplenavi Plugin */
+  /*
+ * DokuWiki Bootstrap3 Template: DokuWiki Plugins
+ *
+ * Home     http://dokuwiki.org/template:bootstrap3
+ * Author   Giuseppe Di Terlizzi <giuseppe.diterlizzi@gmail.com>
+ * License  GPL 2 (http://www.gnu.org/licenses/gpl.html)
+ */
+  /* Tag Plugin */
+  /*
+ * DokuWiki Bootstrap3 Template: DokuWiki Plugins
+ *
+ * Home     http://dokuwiki.org/template:bootstrap3
+ * Author   Giuseppe Di Terlizzi <giuseppe.diterlizzi@gmail.com>
+ * License  GPL 2 (http://www.gnu.org/licenses/gpl.html)
+ */
+  /* Tagging Plugin */
+  /*
+ * DokuWiki Bootstrap3 Template: DokuWiki Plugins
+ *
+ * Home     http://dokuwiki.org/template:bootstrap3
+ * Author   Giuseppe Di Terlizzi <giuseppe.diterlizzi@gmail.com>
+ * License  GPL 2 (http://www.gnu.org/licenses/gpl.html)
+ */
+  /* Translation Plugin */
+  /*
+ * Callouts (from Twitter Bootstrap Documentation)
+ *
+ * Not quite alerts, but custom and helpful notes for folks reading the docs.
+ * Requires a base and modifier class.
+ */
+  /* Common styles for all types */
+  @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700");
+  @import url('https://fonts.googleapis.com/css?family=Donegal+One|Montserrat:400,600');
+  /*
+//== Colors
+//
+//## Gray and brand colors for use across Bootstrap.
+
+@gray-base:              #000;
+@gray-darker:            lighten(@gray-base, 13.5%); // #222
+@gray-dark:              lighten(@gray-base, 20%);   // #333
+@gray:                   lighten(@gray-base, 33.5%); // #555
+@gray-light:             lighten(@gray-base, 60%);   // #999
+@gray-lighter:           lighten(@gray-base, 90%); // #eee
+
+@brand-primary:         #7D526D;
+@brand-success:         #3FB618;
+@brand-info:            #9954BB;
+@brand-warning:         #FF7518;
+@brand-danger:          #FF0039;
+
+
+//== Scaffolding
+//
+//## Settings for some of the most global styles.
+
+//** Background color for `<body>`.
+@body-bg:               #fff;
+//** Global text color on `<body>`.
+@text-color:            @gray-dark;
+
+//** Global textual link color.
+@link-color:            @brand-primary;
+//** Link hover color set via `darken()` function.
+@link-hover-color:      darken(@link-color, 15%);
+//** Link hover decoration.
+@link-hover-decoration: underline;
+
+
+//== Typography
+//
+//## Font, line-height, and color for body text, headings, and more.
+
+@font-family-sans-serif:  Calibri, Candara, Arial, sans-serif;
+@font-family-serif:      "Crimson Text", "Yeseva One", Georgia, "Times New Roman", Times, serif;
+//** Default monospace fonts for `<code>`, `<kbd>`, and `<pre>`.
+@font-family-monospace:   Menlo, Monaco, Consolas, "Courier New", monospace;
+@font-family-base:        @font-family-serif;
+
+@font-size-base:          15px;
+@font-size-large:         ceil((@font-size-base * 1.25)); // ~18px
+@font-size-small:         ceil((@font-size-base * 0.85)); // ~12px
+
+@font-size-h1:            floor((@font-size-base * 2.6)); // ~36px
+@font-size-h2:            floor((@font-size-base * 2.15)); // ~30px
+@font-size-h3:            ceil((@font-size-base * 1.7)); // ~24px
+@font-size-h4:            ceil((@font-size-base * 1.25)); // ~18px
+@font-size-h5:            @font-size-base;
+@font-size-h6:            ceil((@font-size-base * 0.85)); // ~12px
+
+//** Unit-less `line-height` for use in components like buttons.
+@line-height-base:        1.428571429; // 20/14
+//** Computed "line-height" (`font-size` * `line-height`) for use with `margin`, `padding`, etc.
+@line-height-computed:    floor((@font-size-base * @line-height-base)); // ~20px
+
+//** By default, this inherits from the `<body>`.
+@headings-font-family:    "Yeseva One";
+@headings-font-weight:    normal;
+@headings-line-height:    1.1;
+@headings-color:          inherit;
+
+
+//== Iconography
+//
+//## Specify custom location and filename of the included Glyphicons icon font. Useful for those including Bootstrap via Bower.
+
+//** Load fonts from this directory.
+@icon-font-path:          "../fonts/";
+//** File name for all font files.
+@icon-font-name:          "glyphicons-halflings-regular";
+//** Element ID within SVG icon file.
+@icon-font-svg-id:        "glyphicons_halflingsregular";
+
+
+//== Components
+//
+//## Define common padding and border radius sizes and more. Values based on 14px text and 1.428 line-height (~20px to start).
+
+@padding-base-vertical:     10px;
+@padding-base-horizontal:   18px;
+
+@padding-large-vertical:    18px;
+@padding-large-horizontal:  30px;
+
+@padding-small-vertical:    5px;
+@padding-small-horizontal:  10px;
+
+@padding-xs-vertical:       1px;
+@padding-xs-horizontal:     5px;
+
+@line-height-large:         1.33;
+@line-height-small:         1.5;
+
+@border-radius-base:        0;
+@border-radius-large:       0;
+@border-radius-small:       0;
+
+//** Global color for active items (e.g., navs or dropdowns).
+@component-active-color:    #fff;
+//** Global background color for active items (e.g., navs or dropdowns).
+@component-active-bg:       @brand-primary;
+
+//** Width of the `border` for generating carets that indicator dropdowns.
+@caret-width-base:          4px;
+//** Carets increase slightly in size for larger components.
+@caret-width-large:         5px;
+
+
+//== Tables
+//
+//## Customizes the `.table` component with basic values, each used across all table variations.
+
+//** Padding for `<th>`s and `<td>`s.
+@table-cell-padding:            8px;
+//** Padding for cells in `.table-condensed`.
+@table-condensed-cell-padding:  5px;
+
+//** Default background color used for all tables.
+@table-bg:                      transparent;
+//** Background color used for `.table-striped`.
+@table-bg-accent:               #f9f9f9;
+//** Background color used for `.table-hover`.
+@table-bg-hover:                #f5f5f5;
+@table-bg-active:               @table-bg-hover;
+
+//** Border color for table and cell borders.
+@table-border-color:            #ddd;
+
+
+//== Buttons
+//
+//## For each of Bootstrap's buttons, define text, background and border color.
+
+@btn-font-weight:                normal;
+
+@btn-default-color:              #fff;
+@btn-default-bg:                 @gray-darker;
+@btn-default-border:             @btn-default-bg;
+
+@btn-primary-color:              @btn-default-color;
+@btn-primary-bg:                 @brand-primary;
+@btn-primary-border:             @btn-primary-bg;
+
+@btn-success-color:              @btn-default-color;
+@btn-success-bg:                 @brand-success;
+@btn-success-border:             @btn-success-bg;
+
+@btn-info-color:                 @btn-default-color;
+@btn-info-bg:                    @brand-info;
+@btn-info-border:                @btn-info-bg;
+
+@btn-warning-color:              @btn-default-color;
+@btn-warning-bg:                 @brand-warning;
+@btn-warning-border:             @btn-warning-bg;
+
+@btn-danger-color:               @btn-default-color;
+@btn-danger-bg:                  @brand-danger;
+@btn-danger-border:              @btn-danger-bg;
+
+@btn-link-disabled-color:        @gray-light;
+
+
+//== Forms
+//
+//##
+
+//** `<input>` background color
+@input-bg:                       #fff;
+//** `<input disabled>` background color
+@input-bg-disabled:              @gray-lighter;
+
+//** Text color for `<input>`s
+@input-color:                    @text-color;
+//** `<input>` border color
+@input-border:                   #ccc;
+
+// TODO: Rename `@input-border-radius` to `@input-border-radius-base` in v4
+//** Default `.form-control` border radius
+@input-border-radius:            @border-radius-base;
+//** Large `.form-control` border radius
+@input-border-radius-large:      @border-radius-large;
+//** Small `.form-control` border radius
+@input-border-radius-small:      @border-radius-small;
+
+//** Border color for inputs on focus
+@input-border-focus:             #66afe9;
+
+//** Placeholder text color
+@input-color-placeholder:        @gray-light;
+
+//** Default `.form-control` height
+@input-height-base:              (@line-height-computed + (@padding-base-vertical * 2) + 2);
+//** Large `.form-control` height
+@input-height-large:             (ceil(@font-size-large * @line-height-large) + (@padding-large-vertical * 2) + 2);
+//** Small `.form-control` height
+@input-height-small:             (floor(@font-size-small * @line-height-small) + (@padding-small-vertical * 2) + 2);
+
+@legend-color:                   @text-color;
+@legend-border-color:            #e5e5e5;
+
+//** Background color for textual input addons
+@input-group-addon-bg:           @gray-lighter;
+//** Border color for textual input addons
+@input-group-addon-border-color: @input-border;
+
+//** Disabled cursor for form controls and buttons.
+@cursor-disabled:                not-allowed;
+
+
+//== Dropdowns
+//
+//## Dropdown menu container and contents.
+
+//** Background for the dropdown menu.
+@dropdown-bg:                    #fff;
+//** Dropdown menu `border-color`.
+@dropdown-border:                rgba(0,0,0,.15);
+//** Dropdown menu `border-color` **for IE8**.
+@dropdown-fallback-border:       #ccc;
+//** Divider color for between dropdown items.
+@dropdown-divider-bg:            #e5e5e5;
+
+//** Dropdown link text color.
+@dropdown-link-color:            @gray-dark;
+//** Hover color for dropdown links.
+@dropdown-link-hover-color:      #fff;
+//** Hover background for dropdown links.
+@dropdown-link-hover-bg:         @component-active-bg;
+
+//** Active dropdown menu item text color.
+@dropdown-link-active-color:     #fff;
+//** Active dropdown menu item background color.
+@dropdown-link-active-bg:        @component-active-bg;
+
+//** Disabled dropdown menu item background color.
+@dropdown-link-disabled-color:   @gray-light;
+
+//** Text color for headers within dropdown menus.
+@dropdown-header-color:          @gray-light;
+
+//** Deprecated `@dropdown-caret-color` as of v3.1.0
+@dropdown-caret-color:           #000;
+
+
+//-- Z-index master list
+//
+// Warning: Avoid customizing these values. They're used for a bird's eye view
+// of components dependent on the z-axis and are designed to all work together.
+//
+// Note: These variables are not generated into the Customizer.
+
+@zindex-navbar:            1000;
+@zindex-dropdown:          1000;
+@zindex-popover:           1060;
+@zindex-tooltip:           1070;
+@zindex-navbar-fixed:      1030;
+@zindex-modal:             1040;
+
+
+//== Media queries breakpoints
+//
+//## Define the breakpoints at which your layout will change, adapting to different screen sizes.
+
+// Extra small screen / phone
+//** Deprecated `@screen-xs` as of v3.0.1
+@screen-xs:                  480px;
+//** Deprecated `@screen-xs-min` as of v3.2.0
+@screen-xs-min:              @screen-xs;
+//** Deprecated `@screen-phone` as of v3.0.1
+@screen-phone:               @screen-xs-min;
+
+// Small screen / tablet
+//** Deprecated `@screen-sm` as of v3.0.1
+@screen-sm:                  768px;
+@screen-sm-min:              @screen-sm;
+//** Deprecated `@screen-tablet` as of v3.0.1
+@screen-tablet:              @screen-sm-min;
+
+// Medium screen / desktop
+//** Deprecated `@screen-md` as of v3.0.1
+@screen-md:                  992px;
+@screen-md-min:              @screen-md;
+//** Deprecated `@screen-desktop` as of v3.0.1
+@screen-desktop:             @screen-md-min;
+
+// Large screen / wide desktop
+//** Deprecated `@screen-lg` as of v3.0.1
+@screen-lg:                  1200px;
+@screen-lg-min:              @screen-lg;
+//** Deprecated `@screen-lg-desktop` as of v3.0.1
+@screen-lg-desktop:          @screen-lg-min;
+
+// So media queries don't overlap when required, provide a maximum
+@screen-xs-max:              (@screen-sm-min - 1);
+@screen-sm-max:              (@screen-md-min - 1);
+@screen-md-max:              (@screen-lg-min - 1);
+
+
+//== Grid system
+//
+//## Define your custom responsive grid.
+
+//** Number of columns in the grid.
+@grid-columns:              12;
+//** Padding between columns. Gets divided in half for the left and right.
+@grid-gutter-width:         30px;
+// Navbar collapse
+//** Point at which the navbar becomes uncollapsed.
+@grid-float-breakpoint:     @screen-sm-min;
+//** Point at which the navbar begins collapsing.
+@grid-float-breakpoint-max: (@grid-float-breakpoint - 1);
+
+
+//== Container sizes
+//
+//## Define the maximum width of `.container` for different screen sizes.
+
+// Small screen / tablet
+@container-tablet:             (720px + @grid-gutter-width);
+//** For `@screen-sm-min` and up.
+@container-sm:                 @container-tablet;
+
+// Medium screen / desktop
+@container-desktop:            (940px + @grid-gutter-width);
+//** For `@screen-md-min` and up.
+@container-md:                 @container-desktop;
+
+// Large screen / wide desktop
+@container-large-desktop:      (1140px + @grid-gutter-width);
+//** For `@screen-lg-min` and up.
+@container-lg:                 @container-large-desktop;
+
+
+//== Navbar
+//
+//##
+
+// Basics of a navbar
+@navbar-height:                    50px;
+@navbar-margin-bottom:             @line-height-computed;
+@navbar-border-radius:             @border-radius-base;
+@navbar-padding-horizontal:        floor((@grid-gutter-width / 2));
+@navbar-padding-vertical:          ((@navbar-height - @line-height-computed) / 2);
+@navbar-collapse-max-height:       340px;
+
+@navbar-default-color:             #fff;
+@navbar-default-bg:                @gray-darker;
+@navbar-default-border:            darken(@navbar-default-bg, 6.5%);
+
+// Navbar links
+@navbar-default-link-color:                #fff;
+@navbar-default-link-hover-color:          #fff;
+@navbar-default-link-hover-bg:             darken(@navbar-default-bg, 10%);
+@navbar-default-link-active-color:         @navbar-default-link-hover-color;
+@navbar-default-link-active-bg:            @navbar-default-link-hover-bg;
+@navbar-default-link-disabled-color:       #ccc;
+@navbar-default-link-disabled-bg:          transparent;
+
+// Navbar brand label
+@navbar-default-brand-color:               @navbar-default-link-color;
+@navbar-default-brand-hover-color:         #fff;
+@navbar-default-brand-hover-bg:            none;
+
+// Navbar toggle
+@navbar-default-toggle-hover-bg:           @navbar-default-link-hover-bg;
+@navbar-default-toggle-icon-bar-bg:        #fff;
+@navbar-default-toggle-border-color:       transparent;
+
+
+// Inverted navbar
+// Reset inverted navbar basics
+@navbar-inverse-color:                      #fff;
+@navbar-inverse-bg:                         @brand-primary;
+@navbar-inverse-border:                     darken(@navbar-inverse-bg, 10%);
+
+// Inverted navbar links
+@navbar-inverse-link-color:                 #fff;
+@navbar-inverse-link-hover-color:           #fff;
+@navbar-inverse-link-hover-bg:              darken(@navbar-inverse-bg, 10%);
+@navbar-inverse-link-active-color:          @navbar-inverse-link-hover-color;
+@navbar-inverse-link-active-bg:             @navbar-inverse-link-hover-bg;
+@navbar-inverse-link-disabled-color:        #fff;
+@navbar-inverse-link-disabled-bg:           transparent;
+
+// Inverted navbar brand label
+@navbar-inverse-brand-color:                @navbar-inverse-link-color;
+@navbar-inverse-brand-hover-color:          #fff;
+@navbar-inverse-brand-hover-bg:             none;
+
+// Inverted navbar toggle
+@navbar-inverse-toggle-hover-bg:            @navbar-inverse-link-hover-bg;
+@navbar-inverse-toggle-icon-bar-bg:         #fff;
+@navbar-inverse-toggle-border-color:        transparent;
+
+
+//== Navs
+//
+//##
+
+//=== Shared nav styles
+@nav-link-padding:                          10px 15px;
+@nav-link-hover-bg:                         @gray-lighter;
+
+@nav-disabled-link-color:                   @gray-light;
+@nav-disabled-link-hover-color:             @gray-light;
+
+//== Tabs
+@nav-tabs-border-color:                     #ddd;
+
+@nav-tabs-link-hover-border-color:          @gray-lighter;
+
+@nav-tabs-active-link-hover-bg:             @body-bg;
+@nav-tabs-active-link-hover-color:          @gray;
+@nav-tabs-active-link-hover-border-color:   #ddd;
+
+@nav-tabs-justified-link-border-color:            #ddd;
+@nav-tabs-justified-active-link-border-color:     @body-bg;
+
+//== Pills
+@nav-pills-border-radius:                   @border-radius-base;
+@nav-pills-active-link-hover-bg:            @component-active-bg;
+@nav-pills-active-link-hover-color:         @component-active-color;
+
+
+//== Pagination
+//
+//##
+
+@pagination-color:                     @link-color;
+@pagination-bg:                        #fff;
+@pagination-border:                    #ddd;
+
+@pagination-hover-color:               @link-hover-color;
+@pagination-hover-bg:                  @gray-lighter;
+@pagination-hover-border:              #ddd;
+
+@pagination-active-color:              @gray-light;
+@pagination-active-bg:                 #f5f5f5;
+@pagination-active-border:             #ddd;
+
+@pagination-disabled-color:            @gray-light;
+@pagination-disabled-bg:               #fff;
+@pagination-disabled-border:           #ddd;
+
+
+//== Pager
+//
+//##
+
+@pager-bg:                             @pagination-bg;
+@pager-border:                         @pagination-border;
+@pager-border-radius:                  @border-radius-base;
+
+@pager-hover-bg:                       @pagination-hover-bg;
+
+@pager-active-bg:                      @pagination-active-bg;
+@pager-active-color:                   @pagination-active-color;
+
+@pager-disabled-color:                 @gray-light;
+
+
+//== Jumbotron
+//
+//##
+
+@jumbotron-padding:              30px;
+@jumbotron-color:                inherit;
+@jumbotron-bg:                   @gray-lighter;
+@jumbotron-heading-color:        inherit;
+@jumbotron-font-size:            ceil((@font-size-base * 1.5));
+
+
+//== Form states and alerts
+//
+//## Define colors for form feedback states and, by default, alerts.
+
+@state-success-text:             #fff;
+@state-success-bg:               @brand-success;
+@state-success-border:           darken(spin(@state-success-bg, -10), 5%);
+
+@state-info-text:                #fff;
+@state-info-bg:                  @brand-info;
+@state-info-border:              darken(spin(@state-info-bg, -10), 7%);
+
+@state-warning-text:             #fff;
+@state-warning-bg:               @brand-warning;
+@state-warning-border:           darken(spin(@state-warning-bg, -10), 3%);
+
+@state-danger-text:              #fff;
+@state-danger-bg:                @brand-danger;
+@state-danger-border:            darken(spin(@state-danger-bg, -10), 3%);
+
+
+//== Tooltips
+//
+//##
+
+//** Tooltip max width
+@tooltip-max-width:           200px;
+//** Tooltip text color
+@tooltip-color:               #fff;
+//** Tooltip background color
+@tooltip-bg:                  rgba(0,0,0,.9);
+@tooltip-opacity:             .9;
+
+//** Tooltip arrow width
+@tooltip-arrow-width:         5px;
+//** Tooltip arrow color
+@tooltip-arrow-color:         @tooltip-bg;
+
+
+//== Popovers
+//
+//##
+
+//** Popover body background color
+@popover-bg:                          #fff;
+//** Popover maximum width
+@popover-max-width:                   276px;
+//** Popover border color
+@popover-border-color:                rgba(0,0,0,.2);
+//** Popover fallback border color
+@popover-fallback-border-color:       #ccc;
+
+//** Popover title background color
+@popover-title-bg:                    darken(@popover-bg, 3%);
+
+//** Popover arrow width
+@popover-arrow-width:                 10px;
+//** Popover arrow color
+@popover-arrow-color:                 @popover-bg;
+
+//** Popover outer arrow width
+@popover-arrow-outer-width:           (@popover-arrow-width + 1);
+//** Popover outer arrow color
+@popover-arrow-outer-color:           fadein(@popover-border-color, 5%);
+//** Popover outer arrow fallback color
+@popover-arrow-outer-fallback-color:  darken(@popover-fallback-border-color, 20%);
+
+
+//== Labels
+//
+//##
+
+//** Default label background color
+@label-default-bg:            @btn-default-bg;
+//** Primary label background color
+@label-primary-bg:            @brand-primary;
+//** Success label background color
+@label-success-bg:            @brand-success;
+//** Info label background color
+@label-info-bg:               @brand-info;
+//** Warning label background color
+@label-warning-bg:            @brand-warning;
+//** Danger label background color
+@label-danger-bg:             @brand-danger;
+
+//** Default label text color
+@label-color:                 #fff;
+//** Default text color of a linked label
+@label-link-hover-color:      #fff;
+
+
+//== Modals
+//
+//##
+
+//** Padding applied to the modal body
+@modal-inner-padding:         20px;
+
+//** Padding applied to the modal title
+@modal-title-padding:         15px;
+//** Modal title line-height
+@modal-title-line-height:     @line-height-base;
+
+//** Background color of modal content area
+@modal-content-bg:                             #fff;
+//** Modal content border color
+@modal-content-border-color:                   transparent;
+//** Modal content border color **for IE8**
+@modal-content-fallback-border-color:          #999;
+
+//** Modal backdrop background color
+@modal-backdrop-bg:           #000;
+//** Modal backdrop opacity
+@modal-backdrop-opacity:      .5;
+//** Modal header border color
+@modal-header-border-color:   #e5e5e5;
+//** Modal footer border color
+@modal-footer-border-color:   @modal-header-border-color;
+
+@modal-lg:                    900px;
+@modal-md:                    600px;
+@modal-sm:                    300px;
+
+
+//== Alerts
+//
+//## Define alert colors, border radius, and padding.
+
+@alert-padding:               15px;
+@alert-border-radius:         @border-radius-base;
+@alert-link-font-weight:      bold;
+
+@alert-success-bg:            @state-success-bg;
+@alert-success-text:          @state-success-text;
+@alert-success-border:        @state-success-border;
+
+@alert-info-bg:               @state-info-bg;
+@alert-info-text:             @state-info-text;
+@alert-info-border:           @state-info-border;
+
+@alert-warning-bg:            @state-warning-bg;
+@alert-warning-text:          @state-warning-text;
+@alert-warning-border:        @state-warning-border;
+
+@alert-danger-bg:             @state-danger-bg;
+@alert-danger-text:           @state-danger-text;
+@alert-danger-border:         @state-danger-border;
+
+
+//== Progress bars
+//
+//##
+
+//** Background color of the whole progress component
+@progress-bg:                 #ccc;
+//** Progress bar text color
+@progress-bar-color:          #fff;
+//** Variable for setting rounded corners on progress bar.
+@progress-border-radius:      @border-radius-base;
+
+//** Default progress bar color
+@progress-bar-bg:             @brand-primary;
+//** Success progress bar color
+@progress-bar-success-bg:     @brand-success;
+//** Warning progress bar color
+@progress-bar-warning-bg:     @brand-warning;
+//** Danger progress bar color
+@progress-bar-danger-bg:      @brand-danger;
+//** Info progress bar color
+@progress-bar-info-bg:        @brand-info;
+
+
+//== List group
+//
+//##
+
+//** Background color on `.list-group-item`
+@list-group-bg:                 #fff;
+//** `.list-group-item` border color
+@list-group-border:             #ddd;
+//** List group border radius
+@list-group-border-radius:      @border-radius-base;
+
+//** Background color of single list items on hover
+@list-group-hover-bg:           #f5f5f5;
+//** Text color of active list items
+@list-group-active-color:       @component-active-color;
+//** Background color of active list items
+@list-group-active-bg:          @component-active-bg;
+//** Border color of active list elements
+@list-group-active-border:      @list-group-border;
+//** Text color for content within active list items
+@list-group-active-text-color:  lighten(@list-group-active-bg, 40%);
+
+//** Text color of disabled list items
+@list-group-disabled-color:      @gray-light;
+//** Background color of disabled list items
+@list-group-disabled-bg:         @gray-lighter;
+//** Text color for content within disabled list items
+@list-group-disabled-text-color: @list-group-disabled-color;
+
+@list-group-link-color:         #555;
+@list-group-link-hover-color:   @list-group-link-color;
+@list-group-link-heading-color: #333;
+
+
+//== Panels
+//
+//##
+
+@panel-bg:                    #fff;
+@panel-body-padding:          15px;
+@panel-heading-padding:       10px 15px;
+@panel-footer-padding:        @panel-heading-padding;
+@panel-border-radius:         @border-radius-base;
+
+//** Border color for elements within panels
+@panel-inner-border:          #ddd;
+@panel-footer-bg:             #f5f5f5;
+
+@panel-default-text:          @gray-dark;
+@panel-default-border:        #ddd;
+@panel-default-heading-bg:    #f5f5f5;
+
+@panel-primary-text:          #fff;
+@panel-primary-border:        @brand-primary;
+@panel-primary-heading-bg:    @brand-primary;
+
+@panel-success-text:          @state-success-text;
+@panel-success-border:        @state-success-border;
+@panel-success-heading-bg:    @state-success-bg;
+
+@panel-info-text:             @state-info-text;
+@panel-info-border:           @state-info-border;
+@panel-info-heading-bg:       @state-info-bg;
+
+@panel-warning-text:          @state-warning-text;
+@panel-warning-border:        @state-warning-border;
+@panel-warning-heading-bg:    @state-warning-bg;
+
+@panel-danger-text:           @state-danger-text;
+@panel-danger-border:         @state-danger-border;
+@panel-danger-heading-bg:     @state-danger-bg;
+
+
+//== Thumbnails
+//
+//##
+
+//** Padding around the thumbnail image
+@thumbnail-padding:           4px;
+//** Thumbnail background color
+@thumbnail-bg:                @body-bg;
+//** Thumbnail border color
+@thumbnail-border:            #ddd;
+//** Thumbnail border radius
+@thumbnail-border-radius:     @border-radius-base;
+
+//** Custom text color for thumbnail captions
+@thumbnail-caption-color:     @text-color;
+//** Padding around the thumbnail caption
+@thumbnail-caption-padding:   9px;
+
+
+//== Wells
+//
+//##
+
+@well-bg:                     #f5f5f5;
+@well-border:                 darken(@well-bg, 7%);
+
+
+//== Badges
+//
+//##
+
+@badge-color:                 #fff;
+//** Linked badge text color on hover
+@badge-link-hover-color:      #fff;
+@badge-bg:                    @brand-primary;
+
+//** Badge text color in active nav link
+@badge-active-color:          @link-color;
+//** Badge background color in active nav link
+@badge-active-bg:             #fff;
+
+@badge-font-weight:           bold;
+@badge-line-height:           1;
+@badge-border-radius:         10px;
+
+
+//== Breadcrumbs
+//
+//##
+
+@breadcrumb-padding-vertical:   8px;
+@breadcrumb-padding-horizontal: 15px;
+//** Breadcrumb background color
+@breadcrumb-bg:                 #f5f5f5;
+//** Breadcrumb text color
+@breadcrumb-color:              #ccc;
+//** Text color of current page in the breadcrumb
+@breadcrumb-active-color:       @gray-light;
+//** Textual separator for between breadcrumb elements
+@breadcrumb-separator:          "/";
+
+
+//== Carousel
+//
+//##
+
+@carousel-text-shadow:                        0 1px 2px rgba(0,0,0,.6);
+
+@carousel-control-color:                      #fff;
+@carousel-control-width:                      15%;
+@carousel-control-opacity:                    .5;
+@carousel-control-font-size:                  20px;
+
+@carousel-indicator-active-bg:                #fff;
+@carousel-indicator-border-color:             #fff;
+
+@carousel-caption-color:                      #fff;
+
+
+//== Close
+//
+//##
+
+@close-font-weight:           bold;
+@close-color:                 #fff;
+@close-text-shadow:           0 1px 0 #fff;
+
+
+//== Code
+//
+//##
+
+@code-color:                  #c7254e;
+@code-bg:                     #f9f2f4;
+
+@kbd-color:                   #fff;
+@kbd-bg:                      #333;
+
+@pre-bg:                      #f5f5f5;
+@pre-color:                   @gray-dark;
+@pre-border-color:            #ccc;
+@pre-scrollable-max-height:   340px;
+
+
+//== Type
+//
+//##
+
+//** Horizontal offset for forms and lists.
+@component-offset-horizontal: 180px;
+//** Text muted color
+@text-muted:                  @gray-light;
+//** Abbreviations and acronyms border color
+@abbr-border-color:           @gray-light;
+//** Headings small color
+@headings-small-color:        @gray-light;
+//** Blockquote small color
+@blockquote-small-color:      @gray-light;
+//** Blockquote font size
+@blockquote-font-size:        (@font-size-base * 1.25);
+//** Blockquote border color
+@blockquote-border-color:     @gray-lighter;
+//** Page header border color
+@page-header-border-color:    @gray-lighter;
+//** Width of horizontal description list titles
+@dl-horizontal-offset:        @component-offset-horizontal;
+//** Horizontal line color.
+@hr-border:                   @gray-lighter;
+*/
+}
+body.optional .mode_denied article h1:first-of-type:before {
+  content: '\f05e';
+  font: normal normal normal 14px/1 FontAwesome;
+  display: inline-block;
+  width: 1.28571429em;
+  font-size: inherit;
+  color: #d9534f;
+  opacity: .6;
+}
+body.optional .mode_login article h1:first-of-type:before {
+  content: '\f090';
+  font: normal normal normal 14px/1 FontAwesome;
+  display: inline-block;
+  width: 1.28571429em;
+  font-size: inherit;
+  opacity: .6;
+}
+body.optional .mode_register article h1:first-of-type:before {
+  content: '\f234';
+  font: normal normal normal 14px/1 FontAwesome;
+  display: inline-block;
+  width: 1.28571429em;
+  font-size: inherit;
+  opacity: .6;
+}
+body.optional .mode_search article h1:first-of-type:before {
+  content: '\f002';
+  font: normal normal normal 14px/1 FontAwesome;
+  display: inline-block;
+  width: 1.28571429em;
+  font-size: inherit;
+  opacity: .6;
+}
+body.optional .mode_index article h1:first-of-type:before {
+  content: '\f0e8';
+  font: normal normal normal 14px/1 FontAwesome;
+  display: inline-block;
+  width: 1.28571429em;
+  font-size: inherit;
+  opacity: .6;
+}
+body.optional .mode_media article h1:first-of-type:before {
+  content: '\f03e';
+  font: normal normal normal 14px/1 FontAwesome;
+  display: inline-block;
+  width: 1.28571429em;
+  font-size: inherit;
+  opacity: .6;
+}
+body.optional .mode_admin article h1:first-of-type:before {
+  content: '\f085';
+  font: normal normal normal 14px/1 FontAwesome;
+  display: inline-block;
+  width: 1.28571429em;
+  font-size: inherit;
+  opacity: .6;
+}
+body.optional .mode_profile article h1:first-of-type:before {
+  content: '\f007';
+  font: normal normal normal 14px/1 FontAwesome;
+  display: inline-block;
+  width: 1.28571429em;
+  font-size: inherit;
+  opacity: .6;
+}
+body.optional .mode_revisions article h1:first-of-type:before {
+  content: '\f017';
+  font: normal normal normal 14px/1 FontAwesome;
+  display: inline-block;
+  width: 1.28571429em;
+  font-size: inherit;
+  opacity: .6;
+}
+body.optional .mode_backlink article h1:first-of-type:before {
+  content: '\f0c1';
+  font: normal normal normal 14px/1 FontAwesome;
+  display: inline-block;
+  width: 1.28571429em;
+  font-size: inherit;
+  opacity: .6;
+}
+body.optional .mode_draft article h1:first-of-type:before {
+  content: '\f044';
+  font: normal normal normal 14px/1 FontAwesome;
+  display: inline-block;
+  width: 1.28571429em;
+  font-size: inherit;
+  opacity: .6;
+}
+body.optional .mode_showtag article h1:first-of-type:before {
+  content: '\f02c';
+  font: normal normal normal 14px/1 FontAwesome;
+  display: inline-block;
+  width: 1.28571429em;
+  font-size: inherit;
+  opacity: .6;
+}
+body.optional .mode_locked article h1:first-of-type:before {
+  content: '\f023';
+  font: normal normal normal 14px/1 FontAwesome;
+  display: inline-block;
+  width: 1.28571429em;
+  font-size: inherit;
+  color: #f0ad4e;
+  opacity: .6;
+}
+body.optional .mode_preview article h1#preview:before {
+  content: '\f06e';
+  font: normal normal normal 14px/1 FontAwesome;
+  display: inline-block;
+  width: 1.28571429em;
+  font-size: inherit;
+  opacity: .6;
+}
+body.optional .mode_recent article h1:first-of-type:before,
+body.optional .mode_diff article h1:first-of-type:before {
+  content: '\f022';
+  font: normal normal normal 14px/1 FontAwesome;
+  display: inline-block;
+  width: 1.28571429em;
+  font-size: inherit;
+}
+body.optional .mode_conflict article h1:first-of-type:before,
+body.optional .mode_show.notFound article h1:first-of-type:before {
+  content: '\f071';
+  font: normal normal normal 14px/1 FontAwesome;
+  display: inline-block;
+  width: 1.28571429em;
+  font-size: inherit;
+  color: #f0ad4e;
+}
+body.optional .mode_subscribe article h1:first-of-type:before,
+body.optional .mode_unsubscribe article h1:first-of-type:before {
+  content: '\f0e0';
+  font: normal normal normal 14px/1 FontAwesome;
+  display: inline-block;
+  width: 1.28571429em;
+  font-size: inherit;
+  color: #f0ad4e;
+}
+body.optional .mode_admin #admin__version img {
+  width: 16px;
+  height: 16px;
+  margin-right: 5px;
+}
+body.optional .mode_admin ul.admin_tasks li {
+  background: none !important;
+  font-weight: normal;
+  padding-left: 0;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+body.optional .mode_admin ul.admin_tasks .fa {
+  opacity: .6;
+  font-size: 24px;
+}
+body.optional .mode_admin ul.admin_tasks .admin_acl i {
+  color: #f0ad4e;
+}
+body.optional .mode_admin ul.admin_tasks .admin_plugin i,
+body.optional .mode_admin ul.admin_tasks .admin_revert i {
+  color: #5cb85c;
+}
+body.optional .mode_admin ul.admin_tasks .admin_popularity i {
+  color: #5bc0de;
+}
+body.optional .mode_admin article h1.usermanager:before {
+  content: '\f0c0';
+  font: normal normal normal 14px/1 FontAwesome;
+  display: inline-block;
+  width: 1.28571429em;
+  font-size: inherit;
+}
+body.optional .mode_admin article h1.acl:before {
+  content: '\f084';
+  font: normal normal normal 14px/1 FontAwesome;
+  display: inline-block;
+  width: 1.28571429em;
+  font-size: inherit;
+  color: #f0ad4e;
+}
+body.optional .mode_admin article h1.extension:before {
+  content: '\f12e';
+  font: normal normal normal 14px/1 FontAwesome;
+  display: inline-block;
+  width: 1.28571429em;
+  font-size: inherit;
+  color: #5cb85c;
+}
+body.optional .mode_admin article h1.styling:before {
+  content: '\f1fc';
+  font: normal normal normal 14px/1 FontAwesome;
+  display: inline-block;
+  width: 1.28571429em;
+  font-size: inherit;
+}
+body.optional .mode_admin article h1.revert:before {
+  content: '\f021';
+  font: normal normal normal 14px/1 FontAwesome;
+  display: inline-block;
+  width: 1.28571429em;
+  font-size: inherit;
+  color: #5cb85c;
+}
+body.optional .mode_admin article h1.popularity:before {
+  content: '\f0e0';
+  font: normal normal normal 14px/1 FontAwesome;
+  display: inline-block;
+  width: 1.28571429em;
+  font-size: inherit;
+  color: #5bc0de;
+}
+body.optional .mode_admin article h1.sqlite:before {
+  content: '\f1c0';
+  font: normal normal normal 14px/1 FontAwesome;
+  display: inline-block;
+  width: 1.28571429em;
+  font-size: inherit;
+}
+body.optional .mode_admin article h1.tagging:before {
+  content: '\f02c';
+  font: normal normal normal 14px/1 FontAwesome;
+  display: inline-block;
+  width: 1.28571429em;
+  font-size: inherit;
+}
+body.optional .mode_admin article h1.upgrade:before {
+  content: '\f0ed';
+  font: normal normal normal 14px/1 FontAwesome;
+  display: inline-block;
+  width: 1.28571429em;
+  font-size: inherit;
+}
+body.optional .mode_admin article h1.smtp:before {
+  content: '\f003';
+  font: normal normal normal 14px/1 FontAwesome;
+  display: inline-block;
+  width: 1.28571429em;
+  font-size: inherit;
+}
+body.optional .mode_admin article h1.searchindex:before {
+  content: '\f0e8';
+  font: normal normal normal 14px/1 FontAwesome;
+  display: inline-block;
+  width: 1.28571429em;
+  font-size: inherit;
+}
+body.optional .mode_admin article h1.discussion:before {
+  content: '\f086';
+  font: normal normal normal 14px/1 FontAwesome;
+  display: inline-block;
+  width: 1.28571429em;
+  font-size: inherit;
+}
+body.optional .mode_admin article h1.farmer:before {
+  content: '\f1b3';
+  font: normal normal normal 14px/1 FontAwesome;
+  display: inline-block;
+  width: 1.28571429em;
+  font-size: inherit;
+}
+body.optional .mode_admin article h1.submgr:before {
+  content: '\f2b7';
+  font: normal normal normal 14px/1 FontAwesome;
+  display: inline-block;
+  width: 1.28571429em;
+  font-size: inherit;
+}
+body.optional .mode_admin #extension__manager form button:before {
+  font: normal normal normal 14px/1 FontAwesome;
+  display: inline-block;
+  width: 1.28571429em;
+  font-size: inherit;
+}
+body.optional .mode_admin #extension__manager form button.uninstall:before {
+  content: '\f1f8';
+}
+body.optional .mode_admin #extension__manager form button.install:before,
+body.optional .mode_admin #extension__manager form button.update:before,
+body.optional .mode_admin #extension__manager form button.reinstall:before {
+  content: '\f019';
+}
+body.optional .mode_admin #extension__manager form button.enable:before {
+  content: '\f00c';
+}
+body.optional .mode_admin #extension__manager form button.disable:before {
+  content: '\f05e';
+}
+body.optional .mode_admin #extension__manager form.search button:before {
+  content: '\f002';
+}
+body.optional .mode_admin #extension__manager form.install button:before {
+  content: '\f019';
+}
+body.optional .mode_admin #bulk_user_import:before {
+  content: '\f093';
+  font: normal normal normal 14px/1 FontAwesome;
+  display: inline-block;
+  width: 1.28571429em;
+  font-size: inherit;
+}
+body.optional .mode_admin #config__manager h4 {
+  margin-top: 40px;
+}
+body.optional .mode_admin #config__manager fieldset[id^="plugin__"] legend:before {
+  content: '\f12e';
+}
+body.optional .mode_admin #config__manager legend:before,
+body.optional .mode_admin #config__manager h1:before {
+  font: normal normal normal 14px/1 FontAwesome;
+  display: inline-block;
+  width: 1.28571429em;
+  font-size: inherit;
+}
+body.optional .mode_admin #config__manager #_basic legend:before {
+  content: '\f013';
+}
+body.optional .mode_admin #config__manager #_display legend:before {
+  content: '\f109';
+}
+body.optional .mode_admin #config__manager #_authentication legend:before {
+  content: '\f023';
+}
+body.optional .mode_admin #config__manager #_anti_spam legend:before {
+  content: '\f05e';
+}
+body.optional .mode_admin #config__manager #_editing legend:before {
+  content: '\f044';
+}
+body.optional .mode_admin #config__manager #_links legend:before {
+  content: '\f0c1';
+}
+body.optional .mode_admin #config__manager #_media legend:before {
+  content: '\f03e';
+}
+body.optional .mode_admin #config__manager #_notifications legend:before {
+  content: '\f0e0';
+}
+body.optional .mode_admin #config__manager #_syndication legend:before {
+  content: '\f09e';
+}
+body.optional .mode_admin #config__manager #_advanced legend:before {
+  content: '\f1de';
+}
+body.optional .mode_admin #config__manager #_network legend:before {
+  content: '\f1e0';
+}
+body.optional .mode_admin #config__manager #plugin_settings:before {
+  content: '\f12e';
+  color: #5cb85c;
+}
+body.optional .mode_admin #config__manager #template_settings:before {
+  content: '\f1fc';
+}
+body.optional a.iw_user {
+  background-image: none;
+  padding: 0 !important;
+}
+body.optional a.iw_user:before {
+  content: '\f007';
+  font: normal normal normal 14px/1 FontAwesome;
+  display: inline-block;
+  width: 1.28571429em;
+  font-size: inherit;
+}
+body.optional .secedit button:before {
+  font: normal normal normal 14px/1 FontAwesome;
+  display: inline-block;
+  width: 1.28571429em;
+  font-size: inherit;
+}
+body.optional .secedit.editbutton_section button:before {
+  content: '\f040';
+}
+body.optional .secedit.editbutton_table button:before {
+  content: '\f0ce';
+}
+body.optional ul.search_quickhits li a:before {
+  content: '\f0f6';
+  font: normal normal normal 14px/1 FontAwesome;
+  display: inline-block;
+  width: 1.28571429em;
+  font-size: inherit;
+  color: #777;
+}
+body.optional .dw-action-icon a.action:before {
+  font: normal normal normal 14px/1 FontAwesome;
+  display: inline-block;
+  width: 1.28571429em;
+  font-size: inherit;
+}
+body.optional .dw-action-icon a.action.admin:before {
+  content: '\f085';
+}
+body.optional .dw-action-icon a.action.profile:before {
+  content: '\f021';
+}
+body.optional .dw-action-icon a.action.register:before {
+  content: '\f234';
+}
+body.optional .dw-action-icon a.action.login:before {
+  content: '\f090';
+}
+body.optional .dw-action-icon a.action.logout:before {
+  content: '\f08b';
+}
+body.optional .dw-action-icon a.action.recent:before {
+  content: '\f022';
+}
+body.optional .dw-action-icon a.action.media:before {
+  content: '\f03e';
+}
+body.optional .dw-action-icon a.action.index:before {
+  content: '\f0e8';
+}
+body.optional .dw-action-icon a.action.create:before,
+body.optional .dw-action-icon a.action.edit:before,
+body.optional .dw-action-icon a.action.draft:before {
+  content: '\f044';
+}
+body.optional .dw-action-icon a.action.show:before {
+  content: '\f0f6';
+}
+body.optional .dw-action-icon a.action.source:before {
+  content: '\f0f6';
+}
+body.optional .dw-action-icon a.action.discussion:before {
+  content: '\f086';
+}
+body.optional .dw-action-icon a.action.revert:before {
+  content: '\f01e';
+}
+body.optional .dw-action-icon a.action.revs:before {
+  content: '\f017';
+}
+body.optional .dw-action-icon a.action.backlink:before {
+  content: '\f0c1';
+}
+body.optional .dw-action-icon a.action.subscribe:before {
+  content: '\f003';
+}
+body.optional .dw-action-icon a.action.top:before {
+  content: '\f077';
+}
+body.optional #dw__admin span.administrative_tasks:before {
+  content: '\f013';
+  font: normal normal normal 14px/1 FontAwesome;
+  display: inline-block;
+  width: 1.28571429em;
+  font-size: inherit;
+}
+body.optional #dw__admin span.additional_plugins:before {
+  content: '\f12e';
+  font: normal normal normal 14px/1 FontAwesome;
+  display: inline-block;
+  width: 1.28571429em;
+  font-size: inherit;
+}
+body.optional #dw__admin a.admin:before {
+  content: '\f12e';
+  font: normal normal normal 14px/1 FontAwesome;
+  display: inline-block;
+  width: 1.28571429em;
+  font-size: inherit;
+}
+body.optional #dw__admin a.admin.usermanager:before {
+  content: '\f0c0';
+}
+body.optional #dw__admin a.admin.acl:before {
+  content: '\f084';
+}
+body.optional #dw__admin a.admin.config:before {
+  content: '\f013';
+}
+body.optional #dw__admin a.admin.extension:before {
+  content: '\f12e';
+}
+body.optional #dw__admin a.admin.styling:before {
+  content: '\f1fc';
+}
+body.optional #dw__admin a.admin.revert:before {
+  content: '\f021';
+}
+body.optional #dw__admin a.admin.popularity:before {
+  content: '\f0e0';
+}
+body.optional #dw__admin a.admin.sqlite:before {
+  content: '\f1c0';
+}
+body.optional #dw__admin a.admin.tagging:before {
+  content: '\f02c';
+}
+body.optional #dw__admin a.admin.upgrade:before {
+  content: '\f0ed';
+}
+body.optional #dw__admin a.admin.smtp:before {
+  content: '\f003';
+}
+body.optional #dw__admin a.admin.searchindex:before {
+  content: '\f0e8';
+}
+body.optional #dw__admin a.admin.discussion:before {
+  content: '\f086';
+}
+body.optional #dw__admin a.admin.farmer:before {
+  content: '\f1b3';
+}
+body.optional #dw__admin a.admin.submgr:before {
+  content: '\f2b7';
+}
+body.optional html {
+  -ms-overflow-style: scrollbar;
+}
+body.optional body.default.dw-page-on-panel,
+body.optional body.optional.dw-page-on-panel {
+  background: #FEFEFE;
+}
+body.optional aside,
+body.optional .dw__dropdown_page {
+  word-wrap: break-word;
+}
+body.optional aside h1,
+body.optional .dw__dropdown_page h1,
+body.optional aside h2,
+body.optional .dw__dropdown_page h2,
+body.optional aside h3,
+body.optional .dw__dropdown_page h3,
+body.optional aside h4 h5,
+body.optional .dw__dropdown_page h4 h5 {
+  margin: 10px 0 5px 0;
+}
+body.optional aside h1,
+body.optional .dw__dropdown_page h1 {
+  font-size: 1.8em;
+}
+body.optional aside h2,
+body.optional .dw__dropdown_page h2 {
+  font-size: 1.6em;
+}
+body.optional aside h3,
+body.optional .dw__dropdown_page h3 {
+  font-size: 1.4em;
+}
+body.optional aside h4,
+body.optional .dw__dropdown_page h4 {
+  font-size: 1.2em;
+}
+body.optional aside h5,
+body.optional .dw__dropdown_page h5 {
+  font-size: 1em;
+}
+body.optional aside .page-header,
+body.optional .dw__dropdown_page .page-header {
+  margin: 10px 0;
+}
+body.optional aside .panel-heading,
+body.optional .dw__dropdown_page .panel-heading {
+  cursor: pointer;
+}
+body.optional aside .nav ul,
+body.optional .dw__dropdown_page .nav ul {
+  padding-left: 10px;
+}
+body.optional aside .nav li a,
+body.optional .dw__dropdown_page .nav li a {
+  padding: 5px 10px !important;
+}
+body.optional aside .nav li a.urlextern,
+body.optional .dw__dropdown_page .nav li a.urlextern,
+body.optional aside .nav li a.mail,
+body.optional .dw__dropdown_page .nav li a.mail,
+body.optional aside .nav li a.mediafile,
+body.optional .dw__dropdown_page .nav li a.mediafile {
+  padding-left: 28px !important;
+  background-position: 8px center;
+}
+body.optional pre.code {
+  white-space: pre-wrap;
+}
+body.optional input,
+body.optional textarea,
+body.optional select {
+  font-weight: 400;
+}
+body.optional body,
+body.optional main {
+  position: relative;
+}
+body.optional ol {
+  list-style: decimal outside;
+}
+body.optional ol ol {
+  list-style-type: lower-alpha;
+}
+body.optional ol ol ol {
+  list-style-type: upper-roman;
+}
+body.optional ol ol ol ol {
+  list-style-type: upper-alpha;
+}
+body.optional ol ol ol ol ol {
+  list-style-type: lower-roman;
+}
+body.optional header nav #dw__logo {
+  margin-right: 10px;
+}
+body.optional header nav #dw__title {
+  display: inline-block;
+}
+body.optional header nav #dw__tagline {
+  font-size: .6em;
+  display: block;
+  line-height: 1em;
+  white-space: nowrap;
+}
+body.optional header nav.navbar-fixed-top .dw__actions {
+  margin: 0 15px 0 5px;
+}
+body.optional header nav .dw__actions .btn {
+  margin-left: 5px;
+}
+body.optional #dw__msgarea .alert {
+  padding: 5px;
+  margin-bottom: 10px;
+}
+body.optional #dw__msgarea .bs-callout {
+  margin-bottom: 10px;
+  padding: 10px;
+}
+body.optional #dw__logo.dw-logo-tagline {
+  margin-top: -5px;
+}
+body.optional #dw__badges {
+  margin-top: 50px;
+}
+body.optional #config__manager label {
+  color: initial;
+  white-space: initial;
+  font-size: 1.2em;
+  font-weight: initial;
+}
+body.optional #config__manager td {
+  padding: 5px;
+}
+body.optional #config__manager fieldset {
+  background: initial !important;
+  padding: 0 !important;
+  text-align: left;
+}
+body.optional #config__manager .label {
+  display: block;
+  font-weight: normal;
+  color: initial;
+}
+body.optional #config__manager .outkey {
+  margin: 0 !important;
+  padding: 0 !important;
+  font-size: 1.2em !important;
+  background: transparent !important;
+}
+body.optional #config__manager #tpl____bootstrap3____template_settings_name legend {
+  padding-top: 25px;
+}
+body.optional #dw__breadcrumbs hr {
+  margin: 5px 0;
+  padding: 0;
+}
+body.optional #dw__breadcrumbs .breadcrumb {
+  background: transparent;
+  border: 0 none;
+  padding-left: 0;
+  display: inline;
+}
+body.optional #insitu__fn {
+  max-width: 20em;
+}
+body.optional .footnotes div.fn > div.content {
+  display: inline;
+}
+body.optional #dw__user_menu .page-header {
+  margin: 20px 0 10px;
+}
+body.optional #dw__user_menu .nav > li > a {
+  padding: 5px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden !important;
+}
+body.optional #dw__pagetools {
+  position: absolute;
+  right: 27px;
+  top: 50px;
+  z-index: 1000;
+  text-align: center;
+}
+body.optional #dw__pagetools ul li a {
+  padding: 2px;
+}
+body.optional #dw__pagetools ul li:not(.active) a:hover {
+  background: transparent;
+}
+body.optional #dw__pagetools .tools {
+  position: fixed;
+}
+body.optional #dw__footer {
+  position: absolute;
+  left: 0;
+  right: 0;
+  border-radius: 0px;
+  border-width: 1px 0 0 0;
+  margin: 50px 0 0 0;
+  z-index: 995;
+}
+body.optional #dw__footer .navbar-text {
+  float: initial;
+  width: 100%;
+  margin-left: 0;
+  margin-right: 0;
+}
+body.optional #dw__license {
+  margin: 15px 0;
+}
+body.optional #extension__manager ul.tabs li.active a,
+body.optional #extension__manager .panelHeader {
+  background-color: initial;
+}
+body.optional #extension__manager ul.tabs li.active a {
+  /* FIXME */
+  border-bottom-color: white;
+}
+body.optional #user__manager .import_users {
+  clear: both;
+}
+body.optional #media__tree {
+  height: 300px;
+  overflow: auto;
+}
+body.optional #media__tree li.media {
+  margin-top: 0;
+}
+body.optional #mediamgr__content {
+  position: fixed;
+}
+body.optional #media__content {
+  height: auto;
+}
+body.optional #media__content input,
+body.optional #media__content label {
+  margin: 0;
+}
+body.optional #media__content label {
+  display: inline !important;
+}
+body.optional #media__content [type=submit] {
+  vertical-align: bottom;
+}
+body.optional #mediamgr__aside {
+  height: auto;
+  top: 0;
+  position: fixed;
+}
+body.optional #media__opts label {
+  display: inline !important;
+}
+body.optional #mediamanager__page .ui-buttonset label {
+  margin-right: 0 !important;
+}
+body.optional .pageId a.label {
+  white-space: initial;
+}
+body.optional .mode_search li {
+  list-style-type: none;
+}
+body.optional .mode_index ul.idx a {
+  color: inherit;
+  text-decoration: none;
+}
+body.optional .mode_index ul.idx i {
+  padding-right: 5px;
+}
+body.optional .mode_index ul.idx strong {
+  font-weight: normal;
+}
+body.optional .mode_index ul.idx li {
+  list-style-type: none;
+  list-style-image: none !important;
+}
+body.optional .mode_admin input[name="installfile"] {
+  height: auto;
+}
+body.optional .mode_admin h1#dokuwiki_settings,
+body.optional .mode_admin h1#plugin_settings,
+body.optional .mode_admin h1#template_settings {
+  font-size: 1.80em;
+}
+body.optional .mode_admin #config__manager legend {
+  cursor: pointer;
+}
+body.optional .admin_tasks {
+  width: 50% !important;
+}
+body.optional .back-to-top {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  opacity: .8;
+  display: none;
+  z-index: 1024;
+}
+body.optional .fix-media-list-overlap {
+  overflow: hidden;
+}
+body.optional .navbar-nav a.urlextern,
+body.optional .navbar-nav a.mail {
+  padding: 15px 0 15px 18px;
+}
+body.optional .docInfo .list-inline li {
+  padding-left: 0;
+}
+body.optional .profile-image {
+  position: relative;
+  top: -5px;
+  float: left;
+  left: -5px;
+}
+body.optional .dw-content h1.page-header {
+  margin-top: 20px;
+}
+body.optional .dw-page-icons ul.list-inline li {
+  padding: 0 0 0 2px;
+}
+body.optional .dw-page-icons .dropdown {
+  padding: 0 8px 0 0;
+}
+body.optional .dw-page-icons .share-google-plus i.fa {
+  color: #DC4E41;
+}
+body.optional .dw-page-icons .share-twitter i.fa {
+  color: #55ACEE;
+}
+body.optional .dw-page-icons .share-linkedin i.fa {
+  color: #0077B5;
+}
+body.optional .dw-page-icons .share-facebook i.fa {
+  color: #3B5998;
+}
+body.optional .dw-page-icons .share-whatsapp i.fa {
+  color: #43D854;
+}
+body.optional .dw-page-icons .share-pinterest i.fa {
+  color: #BD081C;
+}
+body.optional .dw-page-icons .share-telegram i.fa {
+  color: #0088CC;
+}
+body.optional .img-responsive {
+  display: inline;
+}
+body.optional ul.btn-group {
+  padding: 0;
+}
+body.optional .table thead tr th[rowspan] {
+  vertical-align: top !important;
+}
+body.optional .dokuwiki fieldset {
+  border: none;
+}
+body.optional .dokuwiki img.media {
+  margin: .2em 0;
+}
+body.optional .dokuwiki img.medialeft {
+  float: left;
+  margin: .2em 1em .2em 0;
+}
+body.optional .dokuwiki img.mediaright {
+  float: right;
+  margin: .2em 0 .2em 1em;
+}
+body.optional .dokuwiki img.mediacenter {
+  display: block;
+  margin: .2em auto;
+}
+body.optional .dokuwiki textarea.edit {
+  font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+body.optional .dokuwiki ul.idx {
+  padding-left: 15px;
+}
+body.optional .dokuwiki article .wikilink2 {
+  color: #d9534f;
+}
+body.optional .dokuwiki article .page {
+  min-height: 400px;
+}
+body.optional .dokuwiki .diffnav select {
+  height: auto;
+}
+body.optional .dokuwiki .curid {
+  font-weight: bold;
+}
+body.optional .dropdown-row > ul {
+  position: static;
+  border: 0px;
+  box-shadow: none;
+}
+body.optional .dropdown-row > li a {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden !important;
+}
+body.optional .dropdown-large {
+  position: static !important;
+}
+body.optional .dropdown-menu-large {
+  margin-left: 16px;
+  margin-right: 16px;
+  padding: 20px 0px;
+}
+@media (max-width: 768px) {
+  body.optional .dropdown-menu-large {
+    margin-left: 0 ;
+    margin-right: 0 ;
+  }
+}
+body.optional .dw__dropdown_page .dropdown-menu-large {
+  background: #FFF;
+}
+body.optional .dw__dropdown_page .nav li a {
+  padding: 5px 10px;
+}
+body.optional a.anchorjs-link:hover {
+  text-decoration: none;
+}
+body.optional body.cosmo #tool__bar .btn {
+  border: 1px solid #CCC;
+  background-color: #EEE;
+}
+body.optional body.cyborg #config__manager .outkey,
+body.optional body.darkly #config__manager .outkey,
+body.optional body.slate #config__manager .outkey,
+body.optional body.superhero #config__manager .outkey,
+body.optional body.solar #config__manager .outkey {
+  color: #fff !important;
+}
+body.optional .dw-table-width article table.inline {
+  width: auto;
+}
+body.optional .dw-table-width .mode_admin table.inline {
+  width: 100%;
+}
+body.optional #dw__toc {
+  /* .nav .nav .nav                    { display: none;  } */
+}
+body.optional #dw__toc.affix {
+  z-index: 999;
+}
+body.optional #dw__toc .toc-title {
+  cursor: pointer;
+  margin-top: 0;
+}
+body.optional #dw__toc .toc-body > ul {
+  overflow-y: auto !important;
+  padding-left: 10px;
+}
+body.optional #dw__toc .nav > li > a {
+  /*color: #666;*/
+  padding: 4px 20px;
+  font-weight: 500;
+  display: block;
+  word-break: keep-all;
+}
+body.optional #dw__toc .nav > li > a:hover {
+  background-color: transparent;
+  color: initial;
+}
+body.optional #dw__toc .nav > li > a:hover {
+  border-left: 1px solid #428bca;
+}
+body.optional #dw__toc .nav .nav {
+  padding-bottom: 10px;
+}
+body.optional #dw__toc .nav .nav .nav > li > a {
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+body.optional #dw__toc .nav .nav .nav > .active > a {
+  font-weight: 500;
+}
+body.optional #dw__toc .nav > .active > ul {
+  display: block !important;
+}
+body.optional #dw__toc .nav > li > a {
+  padding-left: 20px;
+}
+body.optional #dw__toc .nav .nav > li > a {
+  padding-left: 30px;
+}
+body.optional #dw__toc .nav .nav .nav > li > a {
+  padding-left: 40px;
+}
+body.optional #dw__toc .nav .nav .nav .nav > li > a {
+  padding-left: 50px;
+}
+body.optional #dw__toc .nav > li > a:hover {
+  padding-left: 19px;
+}
+body.optional #dw__toc .nav .nav > li > a:hover {
+  padding-left: 29px;
+}
+body.optional #dw__toc .nav .nav .nav > li > a:hover {
+  padding-left: 39px;
+}
+body.optional #dw__toc .nav .nav .nav .nav > li > a:hover {
+  padding-left: 49px;
+}
+body.optional #dw__toc .nav > .active > a,
+body.optional #dw__toc .nav > .active > a:hover {
+  padding-left: 18px;
+}
+body.optional #dw__toc .nav .nav > .active > a,
+body.optional #dw__toc .nav .nav > .active > a:hover {
+  padding-left: 28px;
+}
+body.optional #dw__toc .nav .nav .nav > .active > a,
+body.optional #dw__toc .nav .nav .nav > .active > a:hover {
+  padding-left: 38px;
+}
+body.optional #dw__toc .nav .nav .nav .nav > .active > a,
+body.optional #dw__toc .nav .nav .nav .nav > .active > a:hover {
+  padding-left: 48px;
+}
+body.optional #dw__toc .nav > .active > a,
+body.optional #dw__toc .nav > .active > a:hover,
+body.optional #dw__toc .nav > .active > a:focus {
+  font-weight: bold;
+  background-color: transparent;
+  border-left: 2px solid #428bca;
+}
+body.optional .dw-toc {
+  width: 16em;
+  float: right;
+  height: auto;
+  margin: 0 0 1.5em 1.5em;
+}
+body.optional .dw-toc-closed .toc-title span,
+body.optional .dw-toc-closed .toc-body {
+  display: none;
+}
+body.optional .dw-toc .panel-body {
+  padding: 0;
+}
+body.optional .dw-toc .panel-heading {
+  margin-bottom: 0;
+  padding: 5px;
+}
+body.optional .dw-toc-closed .dw-toc {
+  position: absolute;
+  width: 50px;
+  right: 30px;
+}
+body.optional .dw-toc.dw-toc-left {
+  float: left;
+  margin: 0 1.5em 1.5em 0;
+}
+body.optional .dw-toc.dw-toc-left .dw-toc-closed {
+  right: auto;
+}
+body.optional .dokuwiki div.pagenav {
+  text-align: center;
+  margin: 1.5em 0;
+}
+body.optional .dokuwiki div.pagenav-prev,
+body.optional .dokuwiki div.pagenav-next {
+  display: inline;
+  margin: 0 0.5em;
+}
+body.optional .dokuwiki table.diff {
+  width: 100%;
+  border-width: 0;
+  overflow: hidden;
+}
+body.optional .dokuwiki table.diff form,
+body.optional .dokuwiki table.diff label {
+  display: inline;
+}
+body.optional .dokuwiki table.diff select {
+  font-size: small;
+  width: 60%;
+}
+body.optional .dokuwiki table.diff select option[selected] {
+  font-weight: bold;
+}
+body.optional .dokuwiki table.diff th,
+body.optional .dokuwiki table.diff td {
+  vertical-align: top;
+  padding: 0;
+  border-width: 0;
+}
+body.optional .dokuwiki table.diff td {
+  font-family: monospace;
+  font-size: small;
+}
+body.optional .dokuwiki table.diff td.diff-context {
+  background-color: #fafafa;
+}
+body.optional .dokuwiki table.diff .diff_sidebyside th {
+  width: 50%;
+}
+body.optional .dokuwiki table.diff .diff-lineheader {
+  width: 0;
+}
+body.optional .dokuwiki .diffnav span {
+  display: none;
+}
+body.optional .dokuwiki .diffnav a {
+  display: inline-block;
+}
+body.optional .dokuwiki .diffoptions,
+body.optional .dokuwiki .diffnav {
+  padding: 0.5em 0 !important;
+}
+body.optional .dokuwiki .diff-blockheader {
+  padding: 0.5em 0 !important;
+}
+body.optional .dokuwiki .diff_inline td,
+body.optional .dokuwiki th {
+  vertical-align: middle;
+}
+body.optional .dokuwiki .dokuwiki .diffoptions.group p {
+  float: right;
+}
+body.optional .dokuwiki form.changes ul {
+  padding-top: 1.5em;
+}
+body.optional .dokuwiki form.changes ul li {
+  list-style: none;
+  margin-left: 0;
+  /*&.minor {
+      opacity: .7;
+    }*/
+}
+body.optional .dokuwiki form.changes ul li span.sum {
+  font-weight: bold;
+}
+body.optional .dokuwiki form.changes ul li input {
+  vertical-align: top;
+}
+@media screen and (max-width: 767px) {
+  body.optional .dokuwiki fieldset,
+  body.optional .dokuwiki label.block select,
+  body.optional .dokuwiki label.block input.edit {
+    width: 100%;
+    text-align: left;
+  }
+  body.optional .dokuwiki label.block {
+    text-align: initial;
+  }
+  body.optional .dokuwiki label[for="remember__me"] {
+    margin-left: 0 !important;
+  }
+  body.optional .dokuwiki .centeralign form {
+    text-align: left;
+  }
+  body.optional .dokuwiki #config__manager td {
+    display: block;
+    margin: 5px;
+  }
+  body.optional .dokuwiki #config__manager td.value {
+    border-top: 0px solid transparent;
+  }
+  body.optional .dokuwiki #insitu__fn {
+    max-width: initial !important;
+    position: fixed !important;
+    bottom: 0 !important;
+    left: 0 !important;
+    top: initial !important;
+    width: 90% !important;
+    margin: 10px;
+    z-index: 9999;
+  }
+  body.optional .dokuwiki #insitu__fn::before {
+    content: '\f00d';
+    font: normal normal normal 14px/1 FontAwesome;
+    display: inline-block;
+    width: 1.28571429em;
+    font-size: inherit;
+    right: 5px;
+    position: absolute;
+    top: 5px;
+    cursor: pointer;
+  }
+}
+body.optional .nav .addnewpage {
+  padding: 10px;
+}
+body.optional .nav .addnewpage select,
+body.optional .nav .addnewpage input {
+  margin-bottom: 5px;
+}
+body.optional .nav .addnewpage select,
+body.optional .nav .addnewpage input[type=text] {
+  width: 100% !important;
+}
+@media screen and (max-width: 767px) {
+  body.optional .dokuwiki form.bureaucracy__plugin label {
+    text-align: left;
+  }
+  body.optional .dokuwiki form.bureaucracy__plugin label input.edit,
+  body.optional .dokuwiki form.bureaucracy__plugin label select {
+    width: 100%;
+  }
+}
+body.optional table.dataplugin_table {
+  width: auto;
+}
+body.optional .dt-wrapper .form-control {
+  width: auto;
+  display: initial;
+}
+body.optional .dt-wrapper .dataTables_paginate a:hover {
+  cursor: pointer;
+}
+body.optional table.pagelist tbody tr.row::before {
+  display: none;
+}
+body.optional div.dokuwiki div.comment_wrapper {
+  margin: 50px 0 0 0;
+  padding: 0;
+  background-color: inherit;
+}
+body.optional div.dokuwiki div.comment_wrapper div.panel-heading {
+  margin-top: 0;
+  padding: 5px;
+  clear: none;
+}
+body.optional div.dokuwiki div.comment_wrapper div.comment_body {
+  border: 0 hidden;
+}
+body.optional div.dokuwiki div.comment_wrapper div.comment_buttons {
+  float: none;
+  margin-top: initial;
+  padding: 5px;
+}
+body.optional div.dokuwiki #discussion__section {
+  color: inherit;
+  text-decoration: none;
+}
+body.optional .inlinetoc2 > li {
+  margin-left: -10px;
+}
+body.optional div.linkback_wrapper {
+  background-color: inherit !important;
+  padding: 1em 0 !important;
+  margin: 0 !important;
+}
+body.optional #overlay {
+  padding: 0;
+  font-size: small;
+  z-index: 9999;
+}
+body.optional #overlay a {
+  text-decoration: none;
+}
+body.optional #overlay a span {
+  display: none;
+}
+body.optional #overlay .list-inline {
+  margin: 0;
+  padding: 0;
+}
+@media print {
+  body.optional #overlay {
+    display: none;
+  }
+}
+body.optional span.approval_action {
+  display: block;
+}
+body.optional span.approval_action a,
+body.optional span.approval_approved a {
+  color: inherit;
+  text-decoration: underline;
+}
+body.optional .plugin__simplenavi ul {
+  padding-left: 0 !important;
+}
+body.optional .plugin__simplenavi ul ul ul {
+  padding-left: 10px !important;
+}
+body.optional td.tags a.label {
+  font-size: 85%;
+  display: inline-block;
+  margin-bottom: 3px;
+}
+body.optional .pageId a.label {
+  margin-left: 3px;
+}
+body.optional ul.tagging_cloud li {
+  display: inline-block;
+}
+body.optional #dw__translation .flag img {
+  padding-right: 5px;
+}
+body.optional .bs-callout {
+  padding: 20px;
+  margin: 20px 0;
+  border: 1px solid #eee;
+  border-left-width: 5px;
+  border-radius: 3px;
+}
+body.optional .bs-callout h4 {
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+body.optional .bs-callout p:last-child {
+  margin-bottom: 0;
+}
+body.optional .bs-callout code {
+  border-radius: 3px;
+}
+body.optional .bs-callout + .bs-callout {
+  margin-top: -5px;
+}
+body.optional .bs-callout-default {
+  border-left-color: #777;
+}
+body.optional .bs-callout-default h4 {
+  color: #777;
+}
+body.optional .bs-callout-primary {
+  border-left-color: #428bca;
+}
+body.optional .bs-callout-primary h4 {
+  color: #428bca;
+}
+body.optional .bs-callout-success {
+  border-left-color: #5cb85c;
+}
+body.optional .bs-callout-success h4 {
+  color: #5cb85c;
+}
+body.optional .bs-callout-danger {
+  border-left-color: #d9534f;
+}
+body.optional .bs-callout-danger h4 {
+  color: #d9534f;
+}
+body.optional .bs-callout-warning {
+  border-left-color: #f0ad4e;
+}
+body.optional .bs-callout-warning h4 {
+  color: #f0ad4e;
+}
+body.optional .bs-callout-info {
+  border-left-color: #5bc0de;
+}
+body.optional .bs-callout-info h4 {
+  color: #5bc0de;
+}
+body.optional .navbar-inverse .badge {
+  background-color: #fff;
+  color: #7D526D;
+}
+body.optional body {
+  -webkit-font-smoothing: antialiased;
+}
+body.optional .text-primary,
+body.optional .text-primary:hover {
+  color: #7D526D;
+}
+body.optional .text-success,
+body.optional .text-success:hover {
+  color: #3FB618;
+}
+body.optional .text-danger,
+body.optional .text-danger:hover {
+  color: #FF0039;
+}
+body.optional .text-warning,
+body.optional .text-warning:hover {
+  color: #FF7518;
+}
+body.optional .text-info,
+body.optional .text-info:hover {
+  color: #9954BB;
+}
+body.optional table a:not(.btn),
+body.optional .table a:not(.btn) {
+  text-decoration: underline;
+}
+body.optional table .dropdown-menu a,
+body.optional .table .dropdown-menu a {
+  text-decoration: none;
+}
+body.optional table .success,
+body.optional .table .success,
+body.optional table .warning,
+body.optional .table .warning,
+body.optional table .danger,
+body.optional .table .danger,
+body.optional table .info,
+body.optional .table .info {
+  color: #fff;
+}
+body.optional table .success a,
+body.optional .table .success a,
+body.optional table .warning a,
+body.optional .table .warning a,
+body.optional table .danger a,
+body.optional .table .danger a,
+body.optional table .info a,
+body.optional .table .info a {
+  color: #fff;
+}
+body.optional .has-warning .help-block,
+body.optional .has-warning .control-label,
+body.optional .has-warning .radio,
+body.optional .has-warning .checkbox,
+body.optional .has-warning .radio-inline,
+body.optional .has-warning .checkbox-inline,
+body.optional .has-warning.radio label,
+body.optional .has-warning.checkbox label,
+body.optional .has-warning.radio-inline label,
+body.optional .has-warning.checkbox-inline label,
+body.optional .has-warning .form-control-feedback {
+  color: #FF7518;
+}
+body.optional .has-warning .form-control,
+body.optional .has-warning .form-control:focus,
+body.optional .has-warning .input-group-addon {
+  border: 1px solid #FF7518;
+}
+body.optional .has-error .help-block,
+body.optional .has-error .control-label,
+body.optional .has-error .radio,
+body.optional .has-error .checkbox,
+body.optional .has-error .radio-inline,
+body.optional .has-error .checkbox-inline,
+body.optional .has-error.radio label,
+body.optional .has-error.checkbox label,
+body.optional .has-error.radio-inline label,
+body.optional .has-error.checkbox-inline label,
+body.optional .has-error .form-control-feedback {
+  color: #FF0039;
+}
+body.optional .has-error .form-control,
+body.optional .has-error .form-control:focus,
+body.optional .has-error .input-group-addon {
+  border: 1px solid #FF0039;
+}
+body.optional .has-success .help-block,
+body.optional .has-success .control-label,
+body.optional .has-success .radio,
+body.optional .has-success .checkbox,
+body.optional .has-success .radio-inline,
+body.optional .has-success .checkbox-inline,
+body.optional .has-success.radio label,
+body.optional .has-success.checkbox label,
+body.optional .has-success.radio-inline label,
+body.optional .has-success.checkbox-inline label,
+body.optional .has-success .form-control-feedback {
+  color: #3FB618;
+}
+body.optional .has-success .form-control,
+body.optional .has-success .form-control:focus,
+body.optional .has-success .input-group-addon {
+  border: 1px solid #3FB618;
+}
+body.optional .nav-pills > li > a {
+  border-radius: 0;
+}
+body.optional .dropdown-menu > li > a:hover,
+body.optional .dropdown-menu > li > a:focus {
+  background-image: none;
+}
+body.optional .close {
+  text-decoration: none;
+  text-shadow: none;
+  opacity: 0.4;
+}
+body.optional .close:hover,
+body.optional .close:focus {
+  opacity: 1;
+}
+body.optional .alert {
+  border: none;
+}
+body.optional .alert .alert-link {
+  text-decoration: underline;
+  color: #fff;
+}
+body.optional .label {
+  border-radius: 0;
+}
+body.optional .progress {
+  height: 8px;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+}
+body.optional .progress .progress-bar {
+  font-size: 8px;
+  line-height: 8px;
+}
+body.optional .panel-heading,
+body.optional .panel-footer {
+  border-top-right-radius: 0;
+  border-top-left-radius: 0;
+}
+body.optional .panel-default .close {
+  color: #333333;
+}
+body.optional a.list-group-item-success.active {
+  background-color: #3FB618;
+}
+body.optional a.list-group-item-success.active:hover,
+body.optional a.list-group-item-success.active:focus {
+  background-color: #379f15;
+}
+body.optional a.list-group-item-warning.active {
+  background-color: #FF7518;
+}
+body.optional a.list-group-item-warning.active:hover,
+body.optional a.list-group-item-warning.active:focus {
+  background-color: #fe6600;
+}
+body.optional a.list-group-item-danger.active {
+  background-color: #FF0039;
+}
+body.optional a.list-group-item-danger.active:hover,
+body.optional a.list-group-item-danger.active:focus {
+  background-color: #e60033;
+}
+body.optional .modal .close {
+  color: #333333;
+}
+body.optional .popover {
+  color: #333333;
+}
